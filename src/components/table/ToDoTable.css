@@ -1,0 +1,37 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-top: 50px;
+    max-width: 70%;
+}
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 
+
+table tr  {
+    border: solid 3px rgb(160, 164, 171);
+    
+}
+
+table td th {
+    border: px solid rgb(46, 45, 45);
+    padding: 18px;
+    
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+table th {
+    padding: 12px;
+    background-color: #808c93;
+    color: white;
+  }
+td{ 
+    padding: 20px;
+} */
